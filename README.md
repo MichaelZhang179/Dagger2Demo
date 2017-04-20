@@ -1,2 +1,1 @@
-# Dagger2Demo
-Dagger2 + MVP
+# Dagger2Sample
